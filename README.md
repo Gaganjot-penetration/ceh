@@ -6,6 +6,8 @@ Here is a **professional GitHub Profile README** focused on **Ethical Hacking an
 
 I’m passionate about **ethical hacking, cybersecurity research, and building security tools** that help protect systems and applications. I enjoy learning how attacks work and developing techniques to **detect, analyze, and prevent security threats**.
 
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/1e95f458-99e6-415c-92ad-8b11dc803e32" />
+
 ---
 
 ## 🔐 Areas of Interest
